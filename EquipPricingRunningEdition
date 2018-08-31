@@ -8,8 +8,8 @@
 // @author      anruiersi; Superlatanium(Percentile Ranges);
 // @version     1.04
 // @grant       none
-// @updateURL    http://localhost/EquipPricingRunningEdition.js
-// @downloadURL  http://localhost/EquipPricingRunningEdition.js
+// @updateURL    https://raw.githubusercontent.com/anruiersi/Hentaiverse/master/EquipPricingRunningEdition
+// @downloadURL  https://raw.githubusercontent.com/anruiersi/Hentaiverse/master/EquipPricingRunningEdition
 // @run-at      document-end
 // ==/UserScript==
 var PricingLog=true;
